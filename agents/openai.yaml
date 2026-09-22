@@ -1,0 +1,13 @@
+interface:
+  display_name: 载具微缩图
+  short_description: 快速将经典载具或IP主题转化为收藏级3D微缩场景展示海报
+  default_prompt: 使用 @generate-vehicle-diorama，把我指定的载具或IP主题做成1:1等距3D微缩收藏展示图。
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
