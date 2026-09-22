@@ -16,9 +16,9 @@
 
 ## 效果示例
 
-| 皮卡丘 · 电系冒险微缩场景 |
-|:---:|
-| ![皮卡丘 · 电系冒险微缩场景](examples/pikachu-diorama.png) |
+| 皮卡丘 · 电系冒险微缩场景 | 杰尼龟号 · 踏浪出发 |
+|:---:|:---:|
+| ![皮卡丘](examples/pikachu-diorama.png) | ![杰尼龟号](examples/squirtle-diorama.png) |
 
 > 更多示例见 [`examples/`](./examples/)。
 
